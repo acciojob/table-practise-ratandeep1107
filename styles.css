@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+table{
+    background-color: yellow;
+    border: 1px outset grey ;
+}
+th , td {
+    border: 1px inset grey;
+}
