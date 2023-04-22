@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
 table{
     background-color: yellow;
-    border: 1px outset grey ;
+    border: 1px outset rgb(128, 128, 128);
 }
 th , td {
     border: 1px inset grey;
